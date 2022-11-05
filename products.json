@@ -7,7 +7,7 @@
     "category": "health care",
     "image": "https://cdn01.pharmeasy.in/dam/products_otc/270620/digene-acidity-gas-relief-tablets-15s-mint-flavour-2-1655462601.jpg",
     "rating": { "rate": 3.9, "count": 120 },
-    "instock": "yes",
+    "instock": "no",
     "isPresReq": "No"
   },
   {
@@ -51,7 +51,7 @@
     "category": "health care",
     "image": "https://cdn01.pharmeasy.in/dam/products_otc/I34550/gas-o-fast-active-jeera-antacid-sachet-of-5-g-2-1661321275.jpg",
     "rating": { "rate": 4.6, "count": 400 },
-    "instock": "yes",
+    "instock": "no",
     "isPresReq": "No"
   },
   {
