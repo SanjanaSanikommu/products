@@ -6,7 +6,9 @@
     "description": "Digene acidity and gas relief tablet provides quick relief from stomach ache and abdominal cramps as a result of acidity and gas formation.",
     "category": "health care",
     "image": "https://cdn01.pharmeasy.in/dam/products_otc/270620/digene-acidity-gas-relief-tablets-15s-mint-flavour-2-1655462601.jpg",
-    "rating": { "rate": 3.9, "count": 120 }
+    "rating": { "rate": 3.9, "count": 120 },
+    "instock": "yes",
+    "isPresReq": "No"
   },
   {
     "id": 2,
@@ -15,7 +17,9 @@
     "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
     "category": "health care",
     "image": "https://cdn01.pharmeasy.in/dam/products_otc/T43801/gelusil-mps-original-mint-flavour-tablet-15s-1-1641788479.jpg",
-    "rating": { "rate": 4.1, "count": 259 }
+    "rating": { "rate": 4.1, "count": 259 },
+    "instock": "yes",
+    "isPresReq": "No"
   },
   {
     "id": 3,
@@ -24,7 +28,9 @@
     "description": "The active ingredient in the Dulcoflex is Bisacodyl, which is a stimulant laxative for constipation treatment.",
     "category": "health care",
     "image": "https://cdn01.pharmeasy.in/dam/products_otc/247965/dulcoflex-5mg-tablet-constipation-laxative-bowel-movement-regulator-1-strip-10-tablet-2-1654077939.jpg",
-    "rating": { "rate": 4.7, "count": 500 }
+    "rating": { "rate": 4.7, "count": 500 },
+    "instock": "yes",
+    "isPresReq": "No"
   },
   {
     "id": 4,
@@ -33,7 +39,9 @@
     "description": "Saridon tablets are usually used for headache relief. This tablet acts as a mild analgesic medicine that is primarily used as a pain reliever.",
     "category": "health care",
     "image": "https://cdn01.pharmeasy.in/dam/products_otc/156565/saridon-headache-relief-tablet-strip-of-10-tablets-2-1641398741.jpg",
-    "rating": { "rate": 2.1, "count": 430 }
+    "rating": { "rate": 2.1, "count": 430 },
+    "instock": "yes",
+    "isPresReq": "No"
   },
   {
     "id": 5,
@@ -42,7 +50,9 @@
     "description": "Problems of acidity and gas can be extremely uncomfortable and can come in the way of everyday activities. The Gas O Fast Jeera antacid sachet is highly effective in offering relief from the symptoms of gas and acidity.",
     "category": "health care",
     "image": "https://cdn01.pharmeasy.in/dam/products_otc/I34550/gas-o-fast-active-jeera-antacid-sachet-of-5-g-2-1661321275.jpg",
-    "rating": { "rate": 4.6, "count": 400 }
+    "rating": { "rate": 4.6, "count": 400 },
+    "instock": "yes",
+    "isPresReq": "No"
   },
   {
     "id": 6,
@@ -51,7 +61,9 @@
     "description": "The Himalaya Liv 52 DS is a liver support supplement that ensures the healthy functioning of the liver. It essentially contains hepatoprotective agents and also has certain antioxidant properties.",
     "category": "health care",
     "image": "https://cdn01.pharmeasy.in/dam/products_otc/105900/himalaya-liv52-ds-tablets-60s-2-1654078613.jpg",
-    "rating": { "rate": 3.9, "count": 70 }
+    "rating": { "rate": 3.9, "count": 70 },
+    "instock": "yes",
+    "isPresReq": "No"
   },
   {
     "id": 7,
@@ -60,7 +72,9 @@
     "description": "Protinex Diabetes Care is a ready to serve beverage mix that helps meet the nutrient requirements of Indian Adults. Protinex contains 26 essential vitamins and minerals including 11 immuno nutrients³ ; that support immunity, build strength, and provide energy.",
     "category": "health care",
     "image": "https://cdn01.pharmeasy.in/dam/products_otc/M01493/protinex-diabetes-care-vanilla-400gm-nutrition-drink-for-indian-adults-to-control-blood-sugar-2-1641794900.jpg",
-    "rating": { "rate": 3, "count": 400 }
+    "rating": { "rate": 3, "count": 400 },
+    "instock": "yes",
+    "isPresReq": "No"
   },
   {
     "id": 8,
@@ -69,7 +83,9 @@
     "description": "Sugar Free gold powder helps you to cut down unwanted calories of sugar. It is a healthier alternative to regular sugar and it keeps you fit as well. ",
     "category": "health care",
     "image": "https://cdn01.pharmeasy.in/dam/products_otc/I44597/sugar-free-gold-sweetener-powder-jar-of-100-g-2-1654165630.jpg",
-    "rating": { "rate": 1.9, "count": 100 }
+    "rating": { "rate": 1.9, "count": 100 },
+    "instock": "yes",
+    "isPresReq": "No"
   },
   {
     "id": 9,
@@ -78,7 +94,9 @@
     "description": "Neurobion Forte Tablet 30'S",
     "category": "health care",
     "image": "https://cdn01.pharmeasy.in/dam/products_otc/I09432/neurobion-forte-tablet-30s-1-1664871816.jpg",
-    "rating": { "rate": 3.3, "count": 203 }
+    "rating": { "rate": 3.3, "count": 203 },
+    "instock": "yes",
+    "isPresReq": "No"
   },
   {
     "id": 10,
@@ -87,7 +105,9 @@
     "description": "Evion 400 capsule is a vitamin supplement. Evion 400 capsule contains vitamin E (also known as tocopherol) as its active ingredient. Vitamin E is a fat-soluble vitamin.",
     "category": "health care",
     "image": "https://cdn01.pharmeasy.in/dam/products_otc/071710/evion-400mg-strip-of-10-capsules-1-1664874846.jpg",
-    "rating": { "rate": 2.9, "count": 470 }
+    "rating": { "rate": 2.9, "count": 470 },
+    "instock": "yes",
+    "isPresReq": "No"
   },
   {
     "id": 11,
@@ -96,7 +116,9 @@
     "description":"Adding SeaCod Cod Liver Oil capsules to the daily diet can support better health. Seacod is India’s largest selling cod liver oil capsules*. It is an Omega 3 supplement with added Vitamin A and Vitamin D, which can prove to be elemental in developing an active, healthy lifestyle throughout the year.",
     "category": "health care",
     "image": "https://cdn01.pharmeasy.in/dam/products_otc/I01462/seacod-110-cod-liver-oil-capsules-bottle-of-110-1-1632774258.jpg",
-    "rating": { "rate": 4.8, "count": 319 }
+    "rating": { "rate": 4.8, "count": 319 },
+    "instock": "yes",
+    "isPresReq": "No"
   },
   {
     "id": 12,
@@ -105,7 +127,9 @@
     "description": "From the renowned and trusted brand of Cipla, Maxrich multivitamins are manufactured to offer you good health and energy for an active lifestyle. It is a perfect blend of multivitamins and minerals in the form of a soft gel capsule to supplement your daily diet. ",
     "category": "health care",
     "image": "https://cdn01.pharmeasy.in/dam/products_otc/205923/maxirich-multivitamin-minerals-sofgels-strip-of-10-2-1641398591.jpg",
-    "rating": { "rate": 4.8, "count": 400 }
+    "rating": { "rate": 4.8, "count": 400 },
+    "instock": "yes",
+    "isPresReq": "No"
   },
   {
     "id": 13,
@@ -114,7 +138,9 @@
     "description": "Calcimax Plus Syp",
     "category": "health care",
     "image": "https://cdn01.pharmeasy.in/dam/products/031550/calcimax-plus-syp-1-1641535550.jpg",
-    "rating": { "rate": 2.9, "count": 250 }
+    "rating": { "rate": 2.9, "count": 250 },
+    "instock": "yes",
+    "isPresReq": "No"
   },
   {
     "id": 14,
@@ -123,7 +149,9 @@
     "description": "Garlic Pearls Capsule is a health supplement product from the trusted Sun Pharmaceutical Industries Ltd., to help maintain the cholesterol and triglyceride levels in an individual.",
     "category": "health care",
     "image": "https://cdn01.pharmeasy.in/dam/products_otc/081970/garlic-pearls-healthy-heart-digestion-capsules-bottle-of-100-1-1654078628.jpg",
-    "rating": { "rate": 2.2, "count": 140 }
+    "rating": { "rate": 2.2, "count": 140 },
+    "instock": "yes",
+    "isPresReq": "No"
   },
   {
     "id": 15,
@@ -132,7 +160,9 @@
     "description": "Pediasure 7+ is a scientifically designed formula that contains high-quality protein for growing children. It is packed with the goodness of oats, almonds and essential nutrients. It provides nutrition to children above 7 years of age.",
     "category": "health care",
     "image": "https://cdn01.pharmeasy.in/dam/products_otc/R91702/pediasure-7-vanilla-refill-400-gm-1-1654234038.jpg",
-    "rating": { "rate": 2.6, "count": 235 }
+    "rating": { "rate": 2.6, "count": 235 },
+    "instock": "yes",
+    "isPresReq": "No"
   },
   {
     "id": 16,
@@ -141,7 +171,9 @@
     "description": "there might be a time when you think that you have contracted COVID-19 but will be unable to book a slot for an RT-PCR test. You might be asked to wait a couple of days. In such a circumstance, you can avail of a home corona testing kit such as Mylab CoviSelf COVID-19 Rapid Antigen Test for COVID. ",
     "category": "health care",
     "image": "https://cdn01.pharmeasy.in/dam/products_otc/O70942/coviself-covid-self-test-kit-2-1644415093.jpg",
-    "rating": { "rate": 2.9, "count": 340 }
+    "rating": { "rate": 2.9, "count": 340 },
+    "instock": "yes",
+    "isPresReq": "No"
   },
   {
     "id": 17,
@@ -150,7 +182,9 @@
     "description": "The special formula of Vicks Vaporub with Eucalyptus oil and menthol, along with time-trusted natural ingredients, gives instant relief from the symptoms of cough and cold. ",
     "category": "health care",
     "image": "https://cdn01.pharmeasy.in/dam/products_otc/181135/vicks-vaporub-25ml-relief-from-cold-cough-headache-and-body-pain-2-1654078746.jpg",
-    "rating": { "rate": 3.8, "count": 679 }
+    "rating": { "rate": 3.8, "count": 679 },
+    "instock": "yes",
+    "isPresReq": "No"
   },
   {
     "id": 18,
@@ -159,7 +193,9 @@
     "description": "Cofsils Syrup helps in suppressing cough. It also soothes the soreness in the throat and reduces throat pain.",
     "category": "health care",
     "image": "https://cdn01.pharmeasy.in/dam/products_otc/I44532/cofsils-naturals-cough-syrup-bottle-100-ml-3-1641788291.jpg",
-    "rating": { "rate": 4.7, "count": 130 }
+    "rating": { "rate": 4.7, "count": 130 },
+    "instock": "yes",
+    "isPresReq": "No"
   },
   {
     "id": 19,
@@ -168,7 +204,9 @@
     "description": "Otrivin Paediatric Nasal Drops are a nasal decongestant. It is used to relieve nasal congestion (blocked nose) in children.",
     "category": "health care",
     "image": "https://cdn01.pharmeasy.in/dam/products_otc/I28135/otrivin-paediatric-005-nasal-drops-10-ml-1-1641788150.jpg",
-    "rating": { "rate": 4.5, "count": 146 }
+    "rating": { "rate": 4.5, "count": 146 },
+    "instock": "yes",
+    "isPresReq": "No"
   },
   {
     "id": 20,
@@ -177,6 +215,8 @@
     "description": "Baidyanath Kesari Kalp is a formula that helps in overall health and nutrition. It is a 100% herbal Ayurvedic product. Baidyanath Kesari Kalp Chyawanprash has anti-inflammatory benefits and is beneficial when recovering from an illness, injury and weight loss. Regular consumption of Baidyanath Kesari Kalp is said to improve vitality and energy, giving you the strength to recover and have energy throughout the day.",
     "category": "health care",
     "image": "https://cdn01.pharmeasy.in/dam/products_otc/099315/baidyanath-kesari-kalp-royal-chyawanprash-promotes-vitality-strength-stamina-in-adults-500g-2-1654078256.jpg",
-    "rating": { "rate": 3.6, "count": 145 }
+    "rating": { "rate": 3.6, "count": 145 },
+    "instock": "yes",
+    "isPresReq": "Yes"
   }
 ]
